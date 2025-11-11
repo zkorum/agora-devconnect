@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal   # or any other GitHub-supported theme
+title: ""                     # removes the top clickable repo title
+description: ""               # optional
