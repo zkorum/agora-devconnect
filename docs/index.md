@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ![Agora Banner](banner.png)
 
 # Agora @ DevConnect Argentina 2025 🌎
