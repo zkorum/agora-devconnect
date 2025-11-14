@@ -14,7 +14,7 @@
 - **Build stronger communities** through transparent, data-driven dialogues
 
 ### **💬 Join a conversation**
-- [Shaping the future of Ethereum](link-to-agora-conversation)
+- [Shaping the future of Ethereum](https://www.agoracitizen.app/conversation/uz5iWX8)
   
 - [Ethereum in LATAM](link-to-agora-conversation)
   
