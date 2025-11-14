@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide only the first h1 (the auto-generated site title) */
+body > h1:first-of-type {
+  display: none;
+}
