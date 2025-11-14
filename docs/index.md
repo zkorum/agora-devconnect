@@ -16,11 +16,11 @@
 ### **💬 Join a conversation**
 - [Shaping the future of Ethereum](https://www.agoracitizen.app/conversation/uz5iWX8)
   
-- [Ethereum in LATAM](link-to-agora-conversation)
+- [Ethereum in LATAM](https://www.agoracitizen.app/conversation/SFLTGaA)
   
-- [Decentralized Governance](link-to-agora-conversation)
+- [Decentralized Governance](https://www.agoracitizen.app/conversation/ZP1GgCY)
   
-- [d/acc: how to build for human flourishing?](link-to-agora-conversation)
+- [What the d/acc?!](https://www.agoracitizen.app/conversation/wFuj3_E)
   
 - [Future Cities and Hubs](link-to-agora-conversation)
 
