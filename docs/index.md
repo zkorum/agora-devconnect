@@ -28,4 +28,4 @@
 ### 👋Learn more about Agora
 Welcome to join our cofounder Yuting’s talk on [d/acc day](https://luma.com/5zs3pvxx?tk=inkOj7) on Nov 19 @ La Rural.
 
-For any technical issue, please contact us on [Telegram](https://t.me/agorabyzkorum) or [Discord](https://discord.gg/cAkAJQSTEU).
+If you encounter any technical issue, want to propose a new topic or a collaboration, please contact us on [Telegram](https://t.me/agorabyzkorum) or [Discord](https://discord.gg/cAkAJQSTEU).
