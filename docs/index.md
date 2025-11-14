@@ -22,7 +22,7 @@
   
 - [What the d/acc?!](https://www.agoracitizen.app/conversation/wFuj3_E)
   
-- [Future Cities and Hubs](link-to-agora-conversation)
+- [Future Cities and Hubs](https://www.agoracitizen.app/conversation/xahHYj0)
 
 
 ### 👋Learn more about Agora
