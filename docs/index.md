@@ -6,7 +6,7 @@
 
 ### **💡 What is Agora?**
 
-[**Agora Citizen Network**](https://agoracitizen.network) is an open-source deliberation platform that helps communities make sense of diverse opinions and find common ground. Use Agora to 
+[**Agora Citizen Network**](https://agoracitizen.network) is an open-source deliberation platform that helps communities make sense of diverse opinions and find common ground. You can use Agora to 
 
 - **Participate in conversations** by verifying your DevConnect Ticket via Zupass
 - **Share your voice** by voting agree/disagree/unsure on other people’s opinions or add your own
