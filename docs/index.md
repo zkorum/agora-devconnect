@@ -1,12 +1,12 @@
 
 ![Agora Banner](banner.png)
 
-# Agora @ DevConnect Argentina 2025 🌎
+# Collective Sense-Making at Devconnect 2025 🌎
 
 
-### **💡 What is Agora?**
+### **💡 How does it work?**
 
-[**Agora Citizen Network**](https://agoracitizen.network) is an open-source deliberation platform that helps communities make sense of diverse opinions and find common ground. You can use Agora to 
+[DevConnect](https://devconnect.org/) is using [**Agora**](https://agoracitizen.network), an open-source deliberation platform, to capture and make sense of the ecosystem’s diverse opinions. By joining the conversations, you can 
 
 - **Participate anonymously** by verifying your DevConnect Ticket via Zupass
 - **Share your voice** by voting agree/disagree/unsure on other people’s opinions or add your own
@@ -26,6 +26,6 @@
 
 
 ### 👋Learn more about Agora
-Welcome to join our cofounder Yuting’s talk on [d/acc day](https://luma.com/5zs3pvxx?tk=inkOj7) on Nov 19 @ La Rural.
+Welcome to join Agora's cofounder Yuting’s talk on [d/acc day](https://luma.com/5zs3pvxx?tk=inkOj7) on Nov 19 @ La Rural.
 
 If you encounter any technical issue, want to propose a new topic or a collaboration, please contact us on [Telegram](https://t.me/agorabyzkorum) or [Discord](https://discord.gg/cAkAJQSTEU).
