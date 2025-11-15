@@ -6,7 +6,7 @@
 
 ### **💡 How does it work?**
 
-[DevConnect](https://devconnect.org/) is using [**Agora**](https://agoracitizen.network), an open-source deliberation platform, to capture and make sense of the ecosystem’s diverse opinions. By joining the conversations, you can 
+[Devconnect](https://devconnect.org/) is using [**Agora**](https://agoracitizen.network), an open-source deliberation platform, to capture and make sense of the ecosystem’s diverse opinions. By joining the conversations, you can 
 
 - **Participate anonymously** by verifying your DevConnect Ticket via Zupass
 - **Share your voice** by voting agree/disagree/unsure on other people’s opinions or add your own
